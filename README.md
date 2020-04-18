@@ -17,3 +17,22 @@ This repository contains source code, data and paper submitted to [13th Internat
   </br>
   <sup>Conference Sponsors</sup>
 </h1>
+
+
+## Requirements for Compilation
+1. Make sure to have [TeX Live](https://www.tug.org/texlive/) installed.
+
+
+## Paper Compilation
+* **Linux Platform:** Please invoke shell script `sh compile.sh` from the terminal.
+* **Windows Platform:** Please use any TeX editor.
+* **Manual Compilation:** Make sure to follow the sequence of commands mentioned below to compile the file-
+    ```
+    1. pdflatex main.tex
+    2. biber main
+    3. pdflatex main.tex
+    4. pdflatex main.tex
+    ```
+## ROS Package
+The package, i.e., `baxter_whill_movement` is for Baxter and Whill cooperative movement to perform robotic clothing assistance.
+The updated code should be available at [here](https://github.com/ravijo/baxter_whill_movement).
