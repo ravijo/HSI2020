@@ -38,3 +38,10 @@ This repository contains source code, data and paper submitted to [13th Internat
 ## ROS Package
 The package, i.e., `baxter_whill_movement` is for Baxter and Whill cooperative movement to perform robotic clothing assistance.
 The updated code should be available at [here](https://github.com/ravijo/baxter_whill_movement).
+
+
+## Manifold Relevance Determination (MRD)
+* **Training:** Please check [mrd_model.ipynb](https://github.com/ravijo/HSI2020/blob/master/scripts/mrd_model.ipynb) inside `scripts` subfolder.
+* **Model:** Please check [unzip_me_please.zip](https://github.com/ravijo/HSI2020/tree/master/data/model) file. Don't forget to unzip it.
+
+
