@@ -10,10 +10,10 @@ This repository contains source code, data and paper submitted to [13th Internat
 
 
 <h1 align="center">
-  <img src="docs/logo/logo_toyo.jpg" height="40px">
-  <img src="docs/logo/logo_ieee_ies.jpg" height="40px">
-  <img src="docs/logo/logo_ieee_ies_tchf.jpg" height="40px">
-  <img src="docs/logo/logo_sig_aac.png" height="40px">
+  <img src="docs/logo/toyo.jpg" height="40px">
+  <img src="docs/logo/ieee_ies.jpg" height="40px">
+  <img src="docs/logo/ieee_ies_tchf.jpg" height="40px">
+  <img src="docs/logo/sig_aac.png" height="40px">
   </br>
   <sup>Conference Sponsors</sup>
 </h1>
