@@ -6,14 +6,14 @@ This repository contains source code, data and paper submitted to [13th Internat
 <h1 align="center">
   Electric Wheelchair-Humanoid Robot Collaboration for Clothing Assistance of the Elderly
 </h1>
-
+</br>
 
 
 <h1 align="center">
-  <img src="docs/logo/logo_toyo.jpg" height="60px">
-  <img src="docs/logo/logo_ieee_ies.jpg" height="60px">
-  <img src="docs/logo/logo_ieee_ies_tchf.jpg" height="60px">
-  <img src="docs/logo/logo_sig_aac.png" height="60px">
+  <img src="docs/logo/logo_toyo.jpg" height="40px">
+  <img src="docs/logo/logo_ieee_ies.jpg" height="40px">
+  <img src="docs/logo/logo_ieee_ies_tchf.jpg" height="40px">
+  <img src="docs/logo/logo_sig_aac.png" height="40px">
   </br>
   <sup>Conference Sponsors</sup>
 </h1>
